@@ -1,0 +1,82 @@
+.main{
+    border: 5px solid black;
+    position: relative;
+    width: 1574px;
+    height: 90px;
+    border-radius: 10px;
+    top: 20px;
+}
+.yellowBox{
+    background-color: yellow;
+}
+
+#yellowNo1{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 15px;
+    left: 40px;
+}
+
+#yellowNo2{
+    position: absolute;
+    width: 1000px;
+    height: 60px;
+    top: 15px;
+    left: 250px;
+}
+
+#yellowNo3{
+    position: absolute;
+    width: 100px;
+    height: 60px;
+    top: 15px;
+    right: 40px;
+}
+
+.blueBox{
+    background-color: blue;
+}
+
+#blueNo1{
+    position: absolute;
+    width: 300px;
+    bottom: 0px;
+    top: 15px;
+    left: 40px;
+}
+
+#blueNo2{
+    position: absolute;
+    width: 300px;
+    bottom: 0px;
+    top: 15px;
+    left: 400px;
+}
+
+#blueNo3{
+    position: absolute;
+    width: 100px;
+    bottom: 0px;
+    top: 15px;
+    right: 20px;
+}
+
+.redBox{
+    position: absolute;
+    width: 40px;
+    height: 35px;
+    top: 0px;
+    right: 0px;
+    background-color: red;
+}
+
+.greenBox{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 30px;
+    top: 4px;
+    
+    border: 4px green solid;
+}
